@@ -1,0 +1,154 @@
+body{
+  background-image:url('http://www.intrawallpaper.com/static/images/6840735-pattern-wallpaper_gvnD2jd.jpg');
+}
+/*
+.heading .well{
+  width:90%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:18px;
+   border:2px solid darkgrey;
+    background:linear-gradient(to bottom right,#DAE2F8,#D6A4A4);
+  margin-left:auto;
+   margin-right:auto;
+   border-radius:18px;
+   border:2px solid darkgrey;
+}
+*/
+.top{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 48px;
+  text-shadow: 4px 3px 8px mediumorchid;
+ color:purple;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top:20px;
+  letter-spacing: .12em;
+    
+}
+.buttonsjumbo{
+  min-height:220px;
+  max-width:95%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  background:transparent;
+}
+#getQuote{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  letter-spacing:.1em;
+  transform:scale(1,1.08);
+  color:white;
+  text-shadow: 2px 3px 4px purple;
+  display:block;
+  float:right;
+  margin-right:20px;
+  font-size:20px;
+   margin-top:-60px;
+  border:2px solid darkgreen;
+  border-radius:6px;
+  
+  }
+#getQuote:active,
+#getQuote:focus,
+#getQuote.active{
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.container .jumbotron{
+  border-radius:6px;
+}
+
+.colours{
+  background-color:royalblue;
+  min-height:220px;
+  max-width:80%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  
+  font-size:20px;
+  margin-top:-10px;
+}
+
+p{
+  display:block;
+  text-align:center;
+}
+
+h3{
+  margin-top:8px;
+}
+.buttons{
+  float:left;
+  margin-top:-75px;
+  white-space: normal !important;
+    word-wrap: break-word;
+ }
+
+.fa {
+  padding:20px 25px;
+  text-decoration: none;
+  border-radius:30%;
+  margin-left:10px;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+  
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.buttons a{
+  font-size:20px;
+}
+
+.bot{
+  margin-top:-100px;
+  margin-bottom:-80px;
+}
+hr{
+  height:3px;
+  background-color:crimson;
+  border-radius:5px;
+  max-width:700px;
+}
+.well{
+  background:linear-gradient(to right,#D76D77,#FFAF7B);
+  max-width:80%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:none;
+  border-radius:10px;
+  
+}
+h4{
+  font-family: 'Germania One', sans-serif;
+  color:purple;
+  font-size:20px;
+}
+
+#footer a{
+  color:purple;
+}
+#footer a:hover{
+  text-decoration:none;
+}
+ a:visited{
+  text-decoration:none !important;
+}
